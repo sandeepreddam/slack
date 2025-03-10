@@ -7,7 +7,7 @@ pipeline
            {
              steps
              {
-               sh 'mkdir sab'
+               sh 'mkdir sabeee'
              }
            }
   }
