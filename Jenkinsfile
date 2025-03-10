@@ -7,7 +7,7 @@ pipeline
            {
              steps
              {
-               sh 'mkdir sabeee'
+               sh ' touch sabeee'
              }
            }
   }
