@@ -5,7 +5,7 @@ pipeline
   {
      stage('1')
            {
-             steps:
+             steps
              {
                sh 'mkdir sab'
              }
